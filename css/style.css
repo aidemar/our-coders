@@ -1,0 +1,63 @@
+.squad {
+font-family: 'Barlow Condensed', sans-serif, monospace;
+font-size: 35px;
+color: #bd2121;
+}
+
+.members > div {
+  width: 200px;
+  height: 200px;
+  float: left;
+  margin: 20px;
+  text-align: center;
+}
+
+.members > div > span {
+  position: relative;
+  color:red;
+  top:180px;
+  color: #ff5252;  /*#606176*/
+  font-family: 'Spectral SC', serif, monospace;
+  text-shadow: 3px 3px 2px #696;
+}
+
+.coder-1 {
+  background-image: url("../assets/images/arinta.JPG");
+  background-size: 200px, 200px;
+}
+
+.coder-2 {
+  background-image: url("../assets/images/aide.JPG");
+  background-size: 200px, 200px;
+}
+
+.coder-3 {
+  background-image: url("../assets/images/jessica.JPG");
+  background-size: 200px, 200px;
+}
+
+.coder-4 {
+  background-image: url("../assets/images/karla.JPG");
+  background-size: 200px, 200px;
+}
+
+.coder-5 {
+  background-image: url("../assets/images/leticia.JPG");
+  background-size: 200px, 200px;
+  clear: left;
+}
+
+.coder-6 {
+  background-image: url("../assets/images/adalid.JPG");
+  background-size: 200px, 200px;
+}
+
+.coder-7 {
+  background-image: url("../assets/images/mayra.JPG");
+  background-size: 200px, 200px;
+}
+
+.coder-8 {
+  background-image: url("../assets/images/cristina.JPG");
+  background-size: 200px, 200px;
+}
